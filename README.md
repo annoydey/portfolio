@@ -2,10 +2,10 @@
 
 ## My Projects ScreenShots
 ### E-Commerce Web – ONLINE SHOPPING WEBSITE ( [Website Link](https://online-shopping-33c2c.web.app/) ==> [Repository](https://github.com/annoydey/E-commerce-client-Repo))
-![E-commerce](https://github.com/annoydey/portfolio/assets/43465122/8931d22c-51d3-4c1e-a603-e6b5d16df0b1)
+![E-commerce](https://github.com/annoydey/portfolio/assets/43465122/90fade39-1c24-4acd-9e2f-7fc5f14dd3a4)
 
 ### CONNECT-CHAT APPLICATION – REAL TIME MESSAGING APP ( [Website Link](https://connect-chat-application.vercel.app/) ==> [Repository](https://github.com/annoydey/Chat-Application))
-![Connect-chat](https://github.com/annoydey/portfolio/assets/43465122/3984776d-78c1-4d1b-98b5-9005f2aba26c)
+![Connect-chat](https://github.com/annoydey/portfolio/assets/43465122/93be69e3-71c1-4205-bb5a-ebea8e6b780c)
 
 ### CREATIVE AGENCY ( [Website Link](https://creative-agency17.web.app/) ==> [Server Repository](https://github.com/annoydey/creative-agency-server.git))
 ![Creative Agency](https://user-images.githubusercontent.com/43465122/219268431-01b4e8f2-1fa0-4949-9227-ba1f4adb66c9.jpg)
